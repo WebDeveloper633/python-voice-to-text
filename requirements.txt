@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+groq
+python-dotenv  # Optional, if using a .env file for the environment variable
